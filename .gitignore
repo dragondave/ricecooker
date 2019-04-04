@@ -110,3 +110,6 @@ tests/testcontent/
 
 # Pycharm project settings
 .idea/
+
+# Sphinx
+sphinx_build/
